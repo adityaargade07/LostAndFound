@@ -1,10 +1,8 @@
 # LostAndFound
 LostAndFound
 
-Ask DeepWiki
-
 LostAndFound is a full-stack web application built with Flask that provides a platform for users to report lost items and for others to report items they have found. The system features separate dashboards for users and administrators, enabling efficient management of items and users.
-Features
+# Features
 User Features
 
     Secure Authentication: Users can register for an account and log in securely.
@@ -26,7 +24,7 @@ Tech Stack
     Frontend: HTML, Jinja2, Bootstrap 5
     Deployment: The application is configured to run with a standard Python environment.
 
-Getting Started
+# Getting Started
 
 Follow these instructions to get a local copy of the project up and running.
 Prerequisites
@@ -70,7 +68,7 @@ Installation & Setup
 
     The application will be available at http://127.0.0.1:5003.
 
-Usage
+# Usage
 
     Navigate to the Homepage: Open your browser to the application's URL.
     Register/Login:
